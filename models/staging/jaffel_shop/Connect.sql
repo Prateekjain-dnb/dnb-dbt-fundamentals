@@ -1,1 +1,0 @@
-Select 1 as "test"
